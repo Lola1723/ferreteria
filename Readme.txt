@@ -1,6 +1,6 @@
 # 🛠️ Sistema de Ferretería
 
-Este es un sistema web desarrollado para la gestión de una ferretería. Permite controlar productos, inventario, ventas, proveedores y más.
+Este es un sistema web desarrollado para la gestión de una ferretería. Permite controlar productos, inventario, ventas, proveedores y más aún está en proceso de construcción y mejora.
 
 ## 🔧 Tecnologías utilizadas
 
